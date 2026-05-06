@@ -1,5 +1,5 @@
 # Configure the AWS Provider
 provider "aws" {
 <<<<<<< HEAD
-  version = "~> 6.2.3"
+  version = "~> 6.2.34"
 }
